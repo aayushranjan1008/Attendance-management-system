@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\Attendance-Management-System-master\Attendance-Management-System-master\resources\views/admin/errors/list.blade.php ENDPATH**/ ?>
